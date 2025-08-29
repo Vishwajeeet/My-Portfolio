@@ -43,17 +43,7 @@ const projects = [
       
     },
   },
-    {
-    img: project3,
-    title: "Password Generator",
-    description:
-      "Developed a secure and user-friendly Password Generator Website using HTML, CSS, and JavaScript.",
-    links: {
-      site: "https://password-generator-alpha-ebon.vercel.app/",
-      github: "https://github.com/Vishwajeeet/Password-Generator",  
-      
-    },
-  },
+    
   
 ];
 

@@ -44,7 +44,7 @@ portfolio-react/
 
 # 1. Clone the repository
 
-git clone https://github.com/Amarsah15/Portfolio.git
+git clone https://github.com/Vishwajeeet/My-Portfolio.git
 cd portfolio
 
 # 2. Install dependencies
@@ -61,7 +61,7 @@ npm run build
 
 ## 🌐 Live Preview
 
-[Visit Live Portfolio](https://portfolio-indol-seven-75.vercel.app/)
+[Visit Live Portfolio](https://my-portfolio-seven-psi-2o1sijkj5p.vercel.app/)
 
 ## ✨ Author
 
